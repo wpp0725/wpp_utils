@@ -5,6 +5,6 @@ git pull
 echo proj update finish
 set path=%PATH%;D:\DevOps\apache-maven-3.8.6\bin
 echo hello param %1
-java -version
+rem java -version
 pause
  
